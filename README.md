@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Isaac Meneses, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de Informação na Unit. Sou apaixonadao por tecnologia e estou buscando inserção no mercado de trabalho, e aprimorando meus conhecimentos como desenvolvedor back-end
+Me chamo Isaac Meneses, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de Informação na Unit. 
+
+Sou apaixonado por tecnologia e estou buscando inserção no mercado de trabalho, e aprimorando meus conhecimentos como desenvolvedor back-end
 
 - 🌱 Estudando desenvolvimento back-end com Java e Spring
 - 💬 LinkedIn: https://www.linkedin.com/in/isaac-meneses/
